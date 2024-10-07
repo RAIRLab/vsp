@@ -1,5 +1,6 @@
 ---
 title: Workshop on Variable Sharing Properties and Their Discontents
+description: 
 ---
 
 Abstract to appear.
