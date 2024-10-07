@@ -1,5 +1,5 @@
 ---
-title: Workshop: Variable Sharing Properties and Their Discontents
+title: Workshop on Variable Sharing Properties and Their Discontents
 ---
 
 Abstract to appear.
