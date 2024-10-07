@@ -1,6 +1,5 @@
 ---
 title: Workshop on Variable Sharing Properties and Their Discontents
-description: 
 ---
 
 Abstract to appear.
@@ -14,7 +13,6 @@ Topics of Interests Include:
 ## Invited Speakers
 
 
-
 ## Program
 
 Schedule coming soon.
@@ -22,7 +20,20 @@ Schedule coming soon.
 ## Program Committee
 
 
-
 ## Venue
 
 This workshop will take place at Rensselaer Polytechnic Institute in Troy, NY.
+
+<style>
+header .project-name {
+  font-size: 2.5rem;
+}
+
+header .project-tagline {
+  display: none;
+}
+
+header .btn {
+  display: none;
+}
+</style>
