@@ -1,6 +1,6 @@
 ---
 title: Workshop on Variable Sharing Properties and Their Discontents
-
+description: November 14-16, 2024
 ---
 ## About
 Event: Workshop on **Variable Sharing Properties and Their Discontents**
