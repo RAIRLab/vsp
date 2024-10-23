@@ -9,7 +9,7 @@ Date: **November 14-16, 2024**
 
 Venue: [**Rensselaer Polytechnic Institute (RPI)**](https://www.rpi.edu/)
 
-Location: [**Low Center for Industrial Innovation (RPI)**](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7292449,-73.680798,16.75z/data=!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
+Location: Low Center for Industrial Innovation (RPI) [(Link to Maps)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7292449,-73.680798,16.75z/data=!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
 
 Room Number: **3260**
 
@@ -22,8 +22,6 @@ Room Number: **3260**
 **Shay Logan** (Kansas State University) shay.a.logan@gmail.com
 
 **Shawn Standefer** (National Taiwan University) standefer@ntu.edu.tw
-
-## Invited Speakers
 
 
 ## Program
