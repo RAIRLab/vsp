@@ -13,8 +13,9 @@ Location: **Low Center for Industrial Innovation (RPI)** [(Link to Map)](https:/
 
 Room Number: **3260**
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ZXIjryVOQ0L2B1aJ1txSgvlS9hb_TlM&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZXIjryVOQ0L2B1aJ1txSgvlS9hb_TlM&ehbc=2E312F" width="400" height="300"></iframe>
 
+            
 ## Organizers and Contacts
 
 **Thomas Ferguson** (Rensselaer Polytechnic Institute) fergut5@rpi.edu
@@ -42,7 +43,7 @@ The authors of accepted abstracts will have the opportunity to submit full paper
 <style>
 
 body { 
-            width: 80%}
+            width: 100%}
               
 header .project-name {
   font-size: 2.5rem;
