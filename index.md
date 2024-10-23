@@ -13,6 +13,7 @@ Location: **Low Center for Industrial Innovation (RPI)** [(Link to Map)](https:/
 
 Room Number: **3260**
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZXIjryVOQ0L2B1aJ1txSgvlS9hb_TlM&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Organizers and Contacts
 
