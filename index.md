@@ -13,8 +13,6 @@ Location: **Low Center for Industrial Innovation (RPI)** [(Link to Map)](https:/
 
 Room Number: **3260**
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1ZXIjryVOQ0L2B1aJ1txSgvlS9hb_TlM&ehbc=2E312F" width="400" height="300"></iframe>
-
             
 ## Organizers and Contacts
 
@@ -38,6 +36,18 @@ Schedule coming soon.
 
 The authors of accepted abstracts will have the opportunity to submit full papers for inclusion in the conference proceedings, which will be published online.
 
+
+
+## Conference Dinner
+
+The conference dinner will take place on **Friday** November 15th at the [Dinosaur BBQ](https://dinosaurbarbque.com/locations/troy). 
+
+The venue will open at 18:30 and dinner will be served at 19:00. 
+
+
+## Conference Map 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1ZXIjryVOQ0L2B1aJ1txSgvlS9hb_TlM&ehbc=2E312F" width="400" height="300"></iframe>
 
 
 <style>
