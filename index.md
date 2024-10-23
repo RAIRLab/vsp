@@ -17,8 +17,6 @@ Topics of Interests Include:
 
 Schedule coming soon.
 
-## Program Committee
-
 
 ## Venue
 
