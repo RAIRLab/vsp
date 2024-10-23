@@ -42,8 +42,6 @@ The authors of accepted abstracts will have the opportunity to submit full paper
 
 <style>
 
-body { 
-            width: 100%}
               
 header .project-name {
   font-size: 2.5rem;
