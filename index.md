@@ -34,9 +34,9 @@ Room Number: **3260**
 | 11:00 - 12:00 | **Registration** | |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
-| 13:20 - 14:00 | Nicholas Ferenz | Vector Spaces as Topic Structures in Topic-Sensitive Logics *(remote)* |
+| 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
-| 14:20 - 15:00 | Brandon Rozek | VSPursuer: A VSP Verification Tool for MaGIC |
+| 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
 | 15:00 - 15:55 | | *Roundtable discussion* | 
 
 
@@ -71,16 +71,30 @@ Room Number: **3260**
 
 ## Abstracts
 
-<a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property** 
+<a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property**
+
 Gemma Robles (Universidad de Léon) 
 
-It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily
-result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions
-of basic relevant logic B. On the other hand, it is also well known that a necessary property of
-any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable
-connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with
-a series of results about them. (This work is supported by the Spanish Ministry of Science and
-Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
+It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. 
+
+(This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
+
+
+<a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**
+
+Nicholas Ferenz (Universidade de Lisboa)
+
+In this talk I motivate using vector spaces in topic-sensitive logics, given several logics as semantics, and sketch routes to completeness proofs (i.e., building vector spaces from sets of formulas). The motivation for vector spaces is related to their use in representing both syntactic and semantic aspects of words for use in natural language processing. In particular, formal relations between vectors corresponds to semantic relations between topics. These vector space models further open the possibility of logics that represent disagreement between agents in terms of disagreements of topics: e.g., “do A and B really mean the same thing by this formula?” The
+Variable Sharing Property is then reconceptualized as a special case of topic preservation. This is spelled out using vector spaces and projections.
+
+
+<a name="brandon"></a> VSPursuer: A VSP Verification Tool for MaGIC
+
+Brandon Rozek (Rensselaer Polytechnic Institute)
+
+For a given logic, there may be thousands of satisfiable matrix models. Finding models which satisfy variable sharing is a labor-intensive process. In this talk, we introduce VSPursuer, a software tool that automatically finds witnesses for VSP. The tool is designed on top of MaGIC, leveraging existing algorithms to generate the initial candidate set of satisfiable models. We provide an overview on how to use the new tool, the techniques used to automate the search process, and discuss avenues for future developments.
+
+
 
 
 
