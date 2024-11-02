@@ -101,13 +101,13 @@ The venue will open at 18:30 and dinner will be served at 19:00.
 <style>
 
 table th:first-of-type {
-    width: 15%;
-}
-table th:nth-of-type(2) {
     width: 30%;
 }
+table th:nth-of-type(2) {
+    width: 35%;
+}
 
-table th:nth-of-type(3) { width: 55%
+table th:nth-of-type(3) { width: 35%
 }
 
 
