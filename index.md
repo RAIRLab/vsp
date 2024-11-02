@@ -157,19 +157,19 @@ In addition to the rather stable view that relevance require some form of topica
 "Official" consequence relation and that the property holds for Official consequence for  non-relevant logics such as RM<sub>3</sub>. (BRC), therefore, fails to yield relevance in the standard sense. 
 </div>
 
-\\
+
 
 <div style="text-align: justify">
 There are two topics that I wish to highlight during my talk: 
 </div>
 
-\\
+
 
 <div style="text-align: justify"> 
 First of all, whereas the variable sharing property has lately been strengthened in various ways---ways motivated by considerations of whether negation and relevant implication are themselves topically transparent contexts---the investigation into the BRC-property remains in its infancy. The other is to emphasize the importance of how logics with such strengthened variable sharing properties are motivated. Even though the relevant conditional is often called an "entailment conditional", I point to the fact that 
 </div>
 
-\\
+
 
 - modus ponens fails for entailment for logics with stronger variable sharing properties---"depth relevance" and beneath 
 - motivational cases from natural language are typically of contingently true conditionals, and 
@@ -230,7 +230,8 @@ Andrew Tedder *(Ruhr University Bochum)*
 I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)).
 </div>
 
-\\
+
+
 
 ## Conference Proceedings
 
