@@ -32,7 +32,7 @@ Room Number: **3260**
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
-| 12:00 - 12:40 | Gemma Robles | *(remote)* |
+| 12:00 - 12:40 | Gemma Robles | On Acceptable Connexive Logics with the Variable Sharing Property *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
@@ -44,17 +44,17 @@ Room Number: **3260**
 
 | Time | Speaker | Title |
 | --- | --- | --- |
-| 9:00 - 9:45 | Shay Logan | |
-| 9:50 - 10:35 | Sandra Lopez Valasco | |
+| 9:00 - 9:45 | Shay Logan | Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction |
+| 9:50 - 10:35 | Sandra López | The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics |
 | 10:40 - 11:00 | **Coffee break** | |
 | 11:00 - 11:45 | Thomas Ferguson | |
 | 11:50 - 14:00 | **Lunch break**| |
 | 14:00 - 14:45 | Damian Szmuc | More Semantics for Angell’s Logic of Analytic Containment |
-| 14:50 - 15:35 | Martina Zirattu | |
+| 14:50 - 15:35 | Martina Zirattu | On Weak Kleene Generalizations of Classical Logic |
 | 15:40 - 15:50 | **Coffee break** | |
 | 15:50 - 16:35 | Blane Worley | |
 | 16:40 - 17:25 | Tore Øgaard | |
-| 17:30 - 18:15 | Shawn Standefer| |
+| 17:30 - 18:15 | Shawn Standefer| The Significance of Variable-Sharing |
 | 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
 
 
@@ -62,11 +62,11 @@ Room Number: **3260**
 
 | Time | Speaker | Title |
 | --- | --- | --- |
-| 9:00 - 9:45 | Mina Pedersen | |
-| 9:50 - 10:35 | Franci Mangraviti | |
+| 9:00 - 9:45 | Mina Young Pedersen | Hybrid Relevant Logic |
+| 9:50 - 10:35 | Franci Mangraviti | Variable Sharing Beyond Logic: Two Case Studies |
 | 10:40 - 11:00 | **Coffee break** | |
 | 11:00 - 11:45 | Yale Weiss | Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing |
-| 11:50 - 12:35 | Andrew Tedder | |
+| 11:50 - 12:35 | Andrew Tedder | Representing Topics |
 
 
 ## Abstracts
