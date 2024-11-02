@@ -27,10 +27,51 @@ Room Number: **3260**
 
 ## Program
 
-Schedule coming soon.
+**Thursday, November 14**
+
+| Time | Speaker |
+| - | - |
+| 11:00 - 12:00 | *Registration* |
+| 12:00 - 12:40 | Gemma Robles (*remote*) |
+| 12:40 - 13:20 | Katalin Bimbó (*remote*) |
+| 13:20 - 14:00 | Nicholas Ferenz (*remote*) |
+| 14:00 - 14:20 | *Coffee break*
+| 14:20 - 15:00 | Presentation of VSP software: Andrew Tedder & Brandon Rozek |
+| 15:00 - 15:55 | Roundtable discussion |
+
+
+**Friday, November 15**
+
+| Time | Speaker |
+| - | - |
+| 9:00 - 9:45 | Shay Logan |
+| 9:50 - 10:35 | Sandra Lopez Valasco |
+| 10:40 - 11:00 | *Coffee break* |
+| 11:00 - 11:45 | Thomas Ferguson |
+| 11:50 - 14:00 | *Lunch*|
+| 14:00 - 14:45 | Damian Szmuc |
+| 14:50 - 15:35 | Martina Zirattu | 
+| 15:40 - 15:50 | *Coffee break* |
+| 15:50 - 16:35 | Blane Worley |
+| 16:40 - 17:25 | Tore Øgaard | 
+| 17:30 - 18:15 | Shawn Standefer|  
+| 19:00 - 22:00 | *Conference dinner* |
+
+
+**Saturday, November 16**
+
+| Time | Speaker |
+| - | - |
+| 9:00 - 9:45 | Mina Pedersen |
+| 9:50 - 10:35 | Franci Mangraviti |
+| 10:40 - 11:00 | *Coffee break* |
+| 11:00 - 11:45 | Yale Weiss |
+| 11:50 - 12:35 | Andrew Tedder |
+
 
 ## Abstracts
 
+Coming soon.
 
 ## Conference Proceedings
 
