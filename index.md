@@ -32,9 +32,9 @@ Room Number: **3260**
 | Time | Speaker |
 | - | - |
 | 11:00 - 12:00 | **Registration** |
-| 12:00 - 12:40 | Gemma Robles (*remote*) |
-| 12:40 - 13:20 | Katalin Bimbó (*remote*) |
-| 13:20 - 14:00 | Nicholas Ferenz (*remote*) |
+| 12:00 - 12:40 | Gemma Robles *(remote)* |
+| 12:40 - 13:20 | Katalin Bimbó *(remote)* |
+| 13:20 - 14:00 | Nicholas Ferenz *(remote)* |
 | 14:00 - 14:20 | **Coffee break** |
 | 14:20 - 15:00 | Presentation of VSP software: Andrew Tedder & Brandon Rozek |
 | 15:00 - 15:55 | Roundtable discussion |
