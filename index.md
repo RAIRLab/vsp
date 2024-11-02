@@ -34,9 +34,9 @@ Room Number: **3260**
 | 11:00 - 12:00 | **Registration** | |
 | 12:00 - 12:40 | Gemma Robles | On Acceptable Connexive Logics with the Variable Sharing Property *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
-| 13:20 - 14:00 | Nicholas Ferenz | *(remote)* |
+| 13:20 - 14:00 | Nicholas Ferenz | Vector Spaces as Topic Structures in Topic-Sensitive Logics *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
-| 14:20 - 15:00 | Andrew Tedder & Brandon Rozek | *Presentation of VSP software* |
+| 14:20 - 15:00 | Brandon Rozek | VSPursuer: A VSP Verification Tool for MaGIC |
 | 15:00 - 15:55 | | *Roundtable discussion* | 
 
 
@@ -52,7 +52,7 @@ Room Number: **3260**
 | 14:00 - 14:45 | Damian Szmuc | More Semantics for Angell’s Logic of Analytic Containment |
 | 14:50 - 15:35 | Martina Zirattu | On Weak Kleene Generalizations of Classical Logic |
 | 15:40 - 15:50 | **Coffee break** | |
-| 15:50 - 16:35 | Blane Worley | |
+| 15:50 - 16:35 | Blane Worley | Decorating Classical Logic |
 | 16:40 - 17:25 | Tore Øgaard | |
 | 17:30 - 18:15 | Shawn Standefer| The Significance of Variable-Sharing |
 | 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
