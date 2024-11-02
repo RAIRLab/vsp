@@ -55,7 +55,7 @@ Room Number: **3260**
 | 15:50 - 16:35 | Blane Worley |
 | 16:40 - 17:25 | Tore Øgaard | 
 | 17:30 - 18:15 | Shawn Standefer|  
-| 19:00 - 22:00 | **[Conference dinner](/index/Conference Dinner)** |
+| 19:00 - 22:00 | **[Conference dinner](#dinner)** |
 
 
 **Saturday, November 16**
@@ -86,7 +86,7 @@ You can also make use of the local bus lines from the Hilton Garden Inn Hotel to
 - For line [289](https://www.cdta.org/schedules-route-detail?route_id=87), use the hotel stop **15th St & Hoosick St** and the venue stop **15th St & Sage Ave**.
 
 
-## Conference Dinner
+## <a name="dinner"></a> Conference Dinner
 
 The conference dinner will take place on **Friday** November 15th at the [Dinosaur BBQ](https://dinosaurbarbque.com/locations/troy). 
 
