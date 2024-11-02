@@ -32,7 +32,7 @@ Room Number: **3260**
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
-| 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property]((https://rairlab.github.io/vsp/)target="_index">#gemma) *(remote)* |
+| 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](<a href="[https://www.markdownguide.org](https://rairlab.github.io/vsp/)" target="_blank">#gemma!</a>) *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó | [TBD](#katalin)*(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
