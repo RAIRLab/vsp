@@ -29,44 +29,44 @@ Room Number: **3260**
 
 **Thursday, November 14**
 
-| Time | Speaker |
-| ---------------- | --------------------------------------------------------- |
-| 11:00 - 12:00 | **Registration** |
-| 12:00 - 12:40 | Gemma Robles *(remote)* |
-| 12:40 - 13:20 | Katalin Bimbó *(remote)* |
-| 13:20 - 14:00 | Nicholas Ferenz *(remote)* |
-| 14:00 - 14:20 | **Coffee break** |
-| 14:20 - 15:00 | Presentation of VSP software: Andrew Tedder & Brandon Rozek |
-| 15:00 - 15:55 | Roundtable discussion |
+| Time | Speaker | Title |
+| --- | --- | --- |
+| 11:00 - 12:00 | **Registration** | |
+| 12:00 - 12:40 | Gemma Robles | *(remote)* |
+| 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
+| 13:20 - 14:00 | Nicholas Ferenz | *(remote)* |
+| 14:00 - 14:20 | **Coffee break** | |
+| 14:20 - 15:00 | Andrew Tedder & Brandon Rozek | *Presentation of VSP software* |
+| 15:00 - 15:55 | | *Roundtable discussion* | 
 
 
 **Friday, November 15**
 
-| Time | Speaker |
-| ---------------- | --------------------------------------------------------- |
-| 9:00 - 9:45 | Shay Logan |
-| 9:50 - 10:35 | Sandra Lopez Valasco |
-| 10:40 - 11:00 | **Coffee break** |
-| 11:00 - 11:45 | Thomas Ferguson |
-| 11:50 - 14:00 | **Lunch break**|
-| 14:00 - 14:45 | Damian Szmuc |
-| 14:50 - 15:35 | Martina Zirattu | 
-| 15:40 - 15:50 | **Coffee break** |
-| 15:50 - 16:35 | Blane Worley |
-| 16:40 - 17:25 | Tore Øgaard | 
-| 17:30 - 18:15 | Shawn Standefer|  
-| 19:00 - 22:00 | **[Conference dinner](#dinner)** |
+| Time | Speaker | Title |
+| --- | --- | --- |
+| 9:00 - 9:45 | Shay Logan | |
+| 9:50 - 10:35 | Sandra Lopez Valasco | |
+| 10:40 - 11:00 | **Coffee break** | |
+| 11:00 - 11:45 | Thomas Ferguson | |
+| 11:50 - 14:00 | **Lunch break**| |
+| 14:00 - 14:45 | Damian Szmuc | More Semantics for Angell’s Logic of Analytic Containment |
+| 14:50 - 15:35 | Martina Zirattu | |
+| 15:40 - 15:50 | **Coffee break** | |
+| 15:50 - 16:35 | Blane Worley | |
+| 16:40 - 17:25 | Tore Øgaard | |
+| 17:30 - 18:15 | Shawn Standefer| |
+| 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
 
 
 **Saturday, November 16**
 
-| Time | Speaker |
-| ---------------- | --------------------------------------------------------- |
-| 9:00 - 9:45 | Mina Pedersen |
-| 9:50 - 10:35 | Franci Mangraviti |
-| 10:40 - 11:00 | **Coffee break** |
-| 11:00 - 11:45 | Yale Weiss |
-| 11:50 - 12:35 | Andrew Tedder |
+| Time | Speaker | Title |
+| --- | --- | --- |
+| 9:00 - 9:45 | Mina Pedersen | |
+| 9:50 - 10:35 | Franci Mangraviti | |
+| 10:40 - 11:00 | **Coffee break** | |
+| 11:00 - 11:45 | Yale Weiss | Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing |
+| 11:50 - 12:35 | Andrew Tedder | |
 
 
 ## Abstracts
@@ -101,10 +101,13 @@ The venue will open at 18:30 and dinner will be served at 19:00.
 <style>
 
 table th:first-of-type {
-    width: 20%;
+    width: 15%;
 }
 table th:nth-of-type(2) {
-    width: 80%;
+    width: 30%;
+}
+
+table th:nth-of-type(3) { width: 55%
 }
 
 
