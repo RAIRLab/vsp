@@ -150,23 +150,22 @@ Relevant logics can be motivated in roughly two ways; (A) as a theory about a co
 The first first will typically appeal to natural language conditionals in order to substantiate the claim that certain conditionals fail to be true if the antecedent and consequent are about distinct topics. The other theory will typically claim that there is a notion of logical consequence---"entailment"---which require for validity that the premises and conclusion topically overlap. Note that neither of these two motivational ways need exclude the other. 
 </div>
 
-\
+
 <div style="text-align: justify">
-In addition to the rather stable view that relevance require some form of topical overlap, relevant logics have been motivated using a notion of proof-theoretic utility: that the correctness of a deduction of a conclusion for a collection of premises require that the premises have been used in some substantial way. I will try to motivate the claim that this intuition can be accounted for using a topic-overlap-inspired property, namely that the consequence relation satisfy what Avron has called the *basic relevance criterion* (BRC) \citep{avro:wirl14, avro:fcre22}. If the entailment consequence relation for a logic satisfies (BRC) then it follows that the logic satisfies the variable sharing property (VSP). There are, however, logics which satisfy (VSP) without satisfying (BRC) for entailment. Using Fine's semantics for relevant logics I'll sketch a proof that (BRC) holds not only for  the entailment for standard relevant logics between B and R, but also for the  standard/
+In addition to the rather stable view that relevance require some form of topical overlap, relevant logics have been motivated using a notion of proof-theoretic utility: that the correctness of a deduction of a conclusion for a collection of premises require that the premises have been used in some substantial way. I will try to motivate the claim that this intuition can be accounted for using a topic-overlap-inspired property, namely that the consequence relation satisfy what Avron has called the *basic relevance criterion* (BRC). If the entailment consequence relation for a logic satisfies (BRC) then it follows that the logic satisfies the variable sharing property (VSP). There are, however, logics which satisfy (VSP) without satisfying (BRC) for entailment. Using Fine's semantics for relevant logics I'll sketch a proof that (BRC) holds not only for  the entailment for standard relevant logics between B and R, but also for the  standard/
 "Official" consequence relation and that the property holds for Official consequence for  non-relevant logics such as RM<sub>3</sub>. (BRC), therefore, fails to yield relevance in the standard sense. 
 </div>
 
-\
+
 <div style="text-align: justify">
 There are two topics that I wish to highlight during my talk: 
 </div>
 
-\
+
 <div style="text-align: justify"> 
 First of all, whereas the variable sharing property has lately been strengthened in various ways---ways motivated by considerations of whether negation and relevant implication are themselves topically transparent contexts---the investigation into the BRC-property remains in its infancy. The other is to emphasize the importance of how logics with such strengthened variable sharing properties are motivated. Even though the relevant conditional is often called an "entailment conditional", I point to the fact that 
 </div>
 
-\
 - modus ponens fails for entailment for logics with stronger variable sharing properties---"depth relevance" and beneath 
 - motivational cases from natural language are typically of contingently true conditionals, and 
 - that theories formulated in relevant logics are typically investigated as being closed under "Official" consequence
@@ -181,7 +180,7 @@ in order to suggest that
 
 
 <div style="text-align: justify">
-I'll end by suggesting that to combination of some form of hyperformality \citep[cf.][]{loga:drhy22} and the BRC-property might be a viable way to argue that there is an additional notion of logical consequence which require for validity not only truth-preservance but also topical overlap in virtue of logical form. 
+I'll end by suggesting that to combination of some form of hyperformality and the BRC-property might be a viable way to argue that there is an additional notion of logical consequence which require for validity not only truth-preservance but also topical overlap in virtue of logical form. 
 </div>
 
 \\
@@ -207,10 +206,9 @@ Franci Magraviti *(University of Padua)*
 <div style="text-align: justify"> 
 Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic:
 </div>
-<div style="text-align: justify"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing? \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
-</div>
+
+1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing?
+2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
 
 \\
 <a name="yale"></a> **Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing**\\
