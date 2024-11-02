@@ -71,23 +71,23 @@ Room Number: **3260**
 
 ## Abstracts
 
-<a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property** 
+<a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property** \\
 *Gemma Robles (Universidad de Léon)* 
 <div style="text-align: justify"> It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)</div>
 \\
 \\
-<a name="katalin"></a> **TBD** 
+<a name="katalin"></a> **TBD** \\
 *Katalin Bimbó (University of Alberta)* 
 <div style="text-align: justify"> TBD. </div>
 
 \\
-<a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics** 
+<a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics** \\
 *Nicholas Ferenz (Universidade de Lisboa)* 
 <div style="text-align: justify"> In this talk I motivate using vector spaces in topic-sensitive logics, given several logics as semantics, and sketch routes to completeness proofs (i.e., building vector spaces from sets of formulas). The motivation for vector spaces is related to their use in representing both syntactic and semantic aspects of words for use in natural language processing. In particular, formal relations between vectors corresponds to semantic relations between topics. These vector space models further open the possibility of logics that represent disagreement between agents in terms of disagreements of topics: e.g., “do A and B really mean the same thing by this formula?” The Variable Sharing Property is then reconceptualized as a special case of topic preservation. This is spelled out using vector spaces and projections.
 </div>
 \\
 \\
-<a name="brandon"></a> **VSPursuer: A VSP Verification Tool for MaGIC**
+<a name="brandon"> **VSPursuer: A VSP Verification Tool for MaGIC** </a> \\
 Brandon Rozek (*Rensselaer Polytechnic Institute*)
 
 <div style="text-align: justify"> For a given logic, there may be thousands of satisfiable matrix models. Finding models which satisfy variable sharing is a labor-intensive process. In this talk, we introduce VSPursuer, a software tool that automatically finds witnesses for VSP. The tool is designed on top of MaGIC, leveraging existing algorithms to generate the initial candidate set of satisfiable models. We provide an overview on how to use the new tool, the techniques used to automate the search process, and discuss avenues for future developments. This includes some joint work with Andrew Tedder. </div>
