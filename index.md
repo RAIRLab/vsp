@@ -3,11 +3,11 @@ title: Variable Sharing Properties and Their Discontents
 description: November 14-16, 2024
 ---
 ## About
-Event: &nbsp;&nbsp;&nbsp; **Variable Sharing Properties and Their Discontents**
+Event: **Variable Sharing Properties and Their Discontents**
 
-Date: &nbsp;&nbsp;&nbsp;  **November 14-16, 2024**
+Date: **November 14-16, 2024**
 
-Venue: &nbsp;&nbsp;&nbsp; **Rensselaer Polytechnic Institute (RPI)** [(Link to Website)](https://www.rpi.edu/)
+Venue: **Rensselaer Polytechnic Institute (RPI)** [(Link to Website)](https://www.rpi.edu/)
 
 Location: **Low Center for Industrial Innovation (CII), RPI, Troy, NY** [(Link to Map)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7291622,-73.6786731,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
 
@@ -33,7 +33,7 @@ Room Number: **3260**
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) *(remote)* |
-| 12:40 - 13:20 | Katalin Bimbó | [TBD](#katalin)*(remote)* |
+| 12:40 - 13:20 | Katalin Bimbó | [TBD](#katalin) *(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
 | 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
@@ -74,8 +74,10 @@ Room Number: **3260**
 <a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property**\\
 Gemma Robles (*Universidad de Léon*) 
 
-> It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. 
+<div style="text-align: right"> 
+It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. 
 (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
+</div>
 
 <a name="katalin"></a> **TBD**
 
