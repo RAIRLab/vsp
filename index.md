@@ -3,7 +3,7 @@ title: Variable Sharing Properties and Their Discontents
 description: November 14-16, 2024
 ---
 ## About
-Event: **Variable Sharing Properties and Their Discontents**
+Event: &nbsp;&nbsp;&nbsp;&nbsp; **Variable Sharing Properties and Their Discontents**
 
 Date: **November 14-16, 2024**
 
