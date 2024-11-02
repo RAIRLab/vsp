@@ -37,7 +37,7 @@ Room Number: **3260**
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
 | 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
-| 15:00 - 15:55 | | *Roundtable discussion* | 
+| 15:00 - 15:55 | **Roundtable discussion** | |
 
 
 **Friday, November 15**
@@ -72,11 +72,13 @@ Room Number: **3260**
 ## Abstracts
 
 <a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property**\\
-*Gemma Robles (Universidad de Léon)* <div style="text-align: justify"> It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
-</div>
+*Gemma Robles (Universidad de Léon)* 
+<div style="text-align: justify"> It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)</div>
 \\
+
 <a name="katalin"></a> **TBD**\\
 *Katalin Bimbó (University of Alberta)*
+
 TBD.
 \\
 <a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**\\
