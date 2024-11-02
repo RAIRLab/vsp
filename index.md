@@ -82,15 +82,13 @@ It is known that addition of Aristotle’s thesis to a relevant logic does not n
 </div>
 
 
-<a name="katalin"></a> **TBD**
-
+<a name="katalin"></a> **TBD**\\
 Katalin Bimbó (*University of Alberta*)
 
 TBD.
 
 
-<a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**
-
+<a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**\\
 Nicholas Ferenz (*Universidade de Lisboa*)
 
 <div style="text-align: justify"> 
@@ -99,8 +97,7 @@ Variable Sharing Property is then reconceptualized as a special case of topic pr
 </div>
 
 
-<a name="brandon"></a> **VSPursuer: A VSP Verification Tool for MaGIC**
-
+<a name="brandon"></a> **VSPursuer: A VSP Verification Tool for MaGIC**\\
 Brandon Rozek (*Rensselaer Polytechnic Institute*)
 
 <div style="text-align: justify"> 
@@ -108,8 +105,7 @@ For a given logic, there may be thousands of satisfiable matrix models. Finding 
 </div>
 
 
-<a name="shay"></a> **Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction**
-
+<a name="shay"></a> **Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction**\\
 Shay Logan (*Kansas State University*)
 
 <div style="text-align: justify"> 
@@ -118,8 +114,7 @@ words about how we might overcome this obstacle.
 </div>
 
 
-<a name="sandra"></a> **The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics**
-
+<a name="sandra"></a> **The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics**\\
 Sandra López (*Ruhr University Bochum*)
 
 <div style="text-align: justify"> 
@@ -127,8 +122,7 @@ The variable-sharing property (VSP) is considered the main condition for a forma
 </div>
 
 
-<a name="thomas"></a> **TBD**
-
+<a name="thomas"></a> **TBD**\\
 Thomas Ferguson (*Rensselaer Polytechnic Institute*)
 
 <div style="text-align: justify"> 
@@ -136,8 +130,7 @@ TBD.
 </div>
 
 
-<a name="damian"></a> **More Semantics for Angell’s Logic of Analytic Containment**
-
+<a name="damian"></a> **More Semantics for Angell’s Logic of Analytic Containment**\\
 Damian Szmuc (*CONICET*)
 
 <div style="text-align: justify"> 
@@ -145,8 +138,7 @@ This presentation aims to explore new semantics for Angell's logic of Analytic C
 </div>
 
 
-<a name="martina"></a> **On Weak Kleene Generalizations of Classical Logic**
-
+<a name="martina"></a> **On Weak Kleene Generalizations of Classical Logic**\\
 Martina Zirattu (*Università di Torino)*
 
 <div style="text-align: justify"> 
@@ -154,8 +146,7 @@ In an article that appeared some years ago, Stefan Wintein analyzed the effect t
 </div>
 
 
-<a name="blane"></a> **Decorating Classical Logic**
-
+<a name="blane"></a> **Decorating Classical Logic**\\
 Blane Worley (*UC Davis*)
 
 <div style="text-align: justify"> 
@@ -163,8 +154,7 @@ I investigate the closure under non-uniform substitutions of consecutions in bun
 </div>
 
 
-<a name="tore"></a> **Entailment or Implication**
-
+<a name="tore"></a> **Entailment or Implication**\\
 Tore Øgaard (*University of Bergen*)
 
 <div style="text-align: justify"> 
@@ -191,14 +181,12 @@ I'll end by suggesting that to combination of some form of hyperformality \citep
 </div>
 
 
-<a name="shawn"></a> **The Significance of Variable-Sharing**
-
+<a name="shawn"></a> **The Significance of Variable-Sharing**\\
 Shawn Standefer (*National Taiwan University*)
 
 In previous work, I suggested that we can use variable-sharing to define the class of relevant logics. In this talk, I will expand on this idea and explore the significance of variable-sharing. The goal will be to identify some of its prominent philosophical consequences. I will also use it as a foil to help identify features of the usual suspects in the relevant logic literature, e.g. B, R, T, etc., that distinguish them as interesting and important logics.
 
-<a name="mina"></a> **Hybrid Relevant Logic**
-
+<a name="mina"></a> **Hybrid Relevant Logic**\\
 Mina Young Pedersen (*University of Bergen*)
 
 <div style="text-align: justify"> 
@@ -206,8 +194,7 @@ This talk concerns a work-in-progress project on adding nominals and the operato
 </div>
 
 
-<a name="franci"></a> **Variable Sharing Beyond Logic: Two Case Studies**
-
+<a name="franci"></a> **Variable Sharing Beyond Logic: Two Case Studies**\\
 Franci Magraviti (*University of Padua*)
 
 <div style="text-align: justify"> 
@@ -218,14 +205,12 @@ Is the notion of variable sharing central to relevant logic, or is it a mere byp
 </div>
 
 
-<a name="yale"></a> **Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing**
-
+<a name="yale"></a> **Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing**\\
 Yale Weiss (*Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY*)
 
 In this talk I examine the Variable Sharing Property and variants and restrictions thereof from a semantic (i.e., model-theoretic) perspective. I am interested in identifying intuitively significant semantic properties in select model-theoretic frameworks which correspond to species of variable sharing. Some forms of variable sharing in some logics are robustly associated with natural semantic properties, while other forms appear (by "pessimistic induction") not to correspond to any semantically significant notion. Various technical results and their possible philosophical upshots are discussed.
 
-<a name="andrew"></a> **Representing Topics**
-
+<a name="andrew"></a> **Representing Topics**\\
 Andrew Tedder (*Ruhr University Bochum*)
 
 I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)).
