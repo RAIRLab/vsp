@@ -29,7 +29,7 @@ Room Number: **3260**
 
 **Thursday, November 14**
 
-| Time  <div style="width:290px">property</div> | Speaker |
+| Time | Speaker |
 | ---------------- | --------------------------------------------------------- |
 | 11:00 - 12:00 | **Registration** |
 | 12:00 - 12:40 | Gemma Robles *(remote)* |
@@ -42,7 +42,7 @@ Room Number: **3260**
 
 **Friday, November 15**
 
-| Time  <div style="width:290px">property</div> | Speaker |
+| Time | Speaker |
 | ---------------- | --------------------------------------------------------- |
 | 9:00 - 9:45 | Shay Logan |
 | 9:50 - 10:35 | Sandra Lopez Valasco |
@@ -60,7 +60,7 @@ Room Number: **3260**
 
 **Saturday, November 16**
 
-| Time  <div style="width:290px">property</div> | Speaker |
+| Time | Speaker |
 | ---------------- | --------------------------------------------------------- |
 | 9:00 - 9:45 | Mina Pedersen |
 | 9:50 - 10:35 | Franci Mangraviti |
@@ -99,6 +99,14 @@ The venue will open at 18:30 and dinner will be served at 19:00.
 
 
 <style>
+
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+
 
               
 header .project-name {
