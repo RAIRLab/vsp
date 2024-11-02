@@ -80,14 +80,14 @@ It is known that addition of Aristotle’s thesis to a relevant logic does not n
 <div style="text-align: justify"> 
 (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
 </div>
-
-
+\\
+\\
 <a name="katalin"></a> **TBD**\\
 Katalin Bimbó (*University of Alberta*)
 
 TBD.
-
-
+\\
+\\
 <a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**\\
 Nicholas Ferenz (*Universidade de Lisboa*)
 
