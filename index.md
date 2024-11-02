@@ -33,7 +33,7 @@ Room Number: **3260**
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) *(remote)* |
-| 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
+| 12:40 - 13:20 | Katalin Bimbó | [TBD](#katalin)*(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
 | 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
@@ -47,7 +47,7 @@ Room Number: **3260**
 | 9:00 - 9:45 | Shay Logan | [Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction](#shay) |
 | 9:50 - 10:35 | Sandra López | [The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics](#sandra) |
 | 10:40 - 11:00 | **Coffee break** | |
-| 11:00 - 11:45 | Thomas Ferguson | |
+| 11:00 - 11:45 | Thomas Ferguson | [TBD](#thomas)|
 | 11:50 - 14:00 | **Lunch break**| |
 | 14:00 - 14:45 | Damian Szmuc | [More Semantics for Angell’s Logic of Analytic Containment](#damian) |
 | 14:50 - 15:35 | Martina Zirattu | [On Weak Kleene Generalizations of Classical Logic](#martina) |
@@ -79,6 +79,12 @@ It is known that addition of Aristotle’s thesis to a relevant logic does not n
 
 (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
 
+<a name="katalin"></a> **TBD**
+
+Katalin Bimbó (*University of Alberta*)
+
+TBD.
+
 
 <a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics**
 
@@ -108,6 +114,12 @@ words about how we might overcome this obstacle.
 Sandra López (*Ruhr University Bochum*)
 
 The variable-sharing property (VSP) is considered the main condition for a formal system to be a relevance logic, that is, to be free of paradoxes of relevance i.e., conditional formulas where the antecedent and the consequent do not share any common semantic content. The VSP can be defined as follows: a logic L has the VSP iff, for all theorems in L of the form A → B, A and B share at least a propositional variable. In Robles (2023), a general method to build binary expansions of FOUR (i.e., the system also known as Belnap-Dunn logic B4, which is equivalent to FDE) with the VSP is shown; in addition, an interesting logic determined by one of these expansions is fully developed and its fundamental properties are explored. On the other hand, the quasi-relevant property (QRP) is characteristic of logics in the family of relevance such as R-Mingle and may be defined as follows: a logic L has the QRP iff, for all theorems in L of the form A → B, either (i) A and B share a propositional variable or (ii) both ¬A and B are theorems. The aim of this talk is twofold: (1) to extend the method in Robles (2023) for the purpose of building implicative expansions of FOUR with the QRP; (2) to establish different criteria to choose among these matrices in order to develop logics that may be of interest from the point of view of relevance as something else than mere artificial constructs.
+
+<a name="thomas"></a> **TBD**
+
+Thomas Ferguson (*Rensselaer Polytechnic Institute*)
+
+TBD.
 
 
 <a name="damian"></a> **More Semantics for Angell’s Logic of Analytic Containment**
@@ -162,19 +174,36 @@ Shawn Standefer (*National Taiwan University*)
 
 In previous work, I suggested that we can use variable-sharing to define the class of relevant logics. In this talk, I will expand on this idea and explore the significance of variable-sharing. The goal will be to identify some of its prominent philosophical consequences. I will also use it as a foil to help identify features of the usual suspects in the relevant logic literature, e.g. B, R, T, etc., that distinguish them as interesting and important logics.
 
-<a name="mina"></a>
+<a name="mina"></a> **Hybrid Relevant Logic**
 
-<a name="franci"></a>
+Mina Young Pedersen (*University of Bergen*)
 
-<a name="yale"></a>
+This talk concerns a work-in-progress project on adding nominals and the operator $@_{i}$ from hybrid logic to the language of relevant logic. Hybrid logic is a modal logic that includes special propositional atoms, called nominals, where each nominal is true at only one state in the model. In effect, nominals let us name individual states and refer to them by formulas on the form $@_{i} \phi$ which we read as ``$\phi$ holds in the state called $i$''. The project is motivated both by exploring modal logics in a relevant setting and by investigating the interesting mathematical structures that arise. The addition of nominals to relevant logic is not straightforward as a direct transfer of the valuation function from hybrid logic conflicts with the Heredity Lemma. We therefore propose that nominals name hereditarily closed sets instead of states in the model. In the talk, I show that the hybrid semantics of $@_i$ further conflicts with relevant motivations and discuss some non-standard alternatives.
 
-<a name="andrew"></a>
+<a name="franci"></a> **Variable Sharing Beyond Logic: Two Case Studies**
 
+Franci Magraviti (*University of Padua*)
 
+Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic:
+
+1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing? 
+2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
+
+<a name="yale"></a> **Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing**
+
+Yale Weiss (*Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY*)
+
+In this talk I examine the Variable Sharing Property and variants and restrictions thereof from a semantic (i.e., model-theoretic) perspective. I am interested in identifying intuitively significant semantic properties in select model-theoretic frameworks which correspond to species of variable sharing. Some forms of variable sharing in some logics are robustly associated with natural semantic properties, while other forms appear (by "pessimistic induction") not to correspond to any semantically significant notion. Various technical results and their possible philosophical upshots are discussed.
+
+<a name="andrew"></a> **Representing Topics**
+
+Andrew Tedder (*Ruhr University Bochum*)
+
+I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)).
 
 ## Conference Proceedings
 
-The authors of accepted abstracts will have the opportunity to submit full papers for inclusion in the conference proceedings, which will be published online.
+The participants will have the opportunity to submit full papers for inclusion in the conference proceedings, which will be published online.
 
 ## Transportation
 
