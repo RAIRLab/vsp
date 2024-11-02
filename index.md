@@ -190,21 +190,27 @@ Franci Magraviti (*University of Padua*)
 <div style="text-align: justify"> 
 Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic:
 </div>
-
-1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing? 
-2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
+<div style="text-align: justify"> 
+&nbsp;&nbsp; 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing? 
+&nbsp;&nbsp; 2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
 </div>
 
 \\
 <a name="yale"></a> **Shallow Syntactic Properties, Deep Semantic Correlates, and Variable Sharing**\\
 Yale Weiss (*Philosophy Program and Saul Kripke Center, The Graduate Center, CUNY*)
 
-In this talk I examine the Variable Sharing Property and variants and restrictions thereof from a semantic (i.e., model-theoretic) perspective. I am interested in identifying intuitively significant semantic properties in select model-theoretic frameworks which correspond to species of variable sharing. Some forms of variable sharing in some logics are robustly associated with natural semantic properties, while other forms appear (by "pessimistic induction") not to correspond to any semantically significant notion. Various technical results and their possible philosophical upshots are discussed.
+<div style="text-align: justify"> In this talk I examine the Variable Sharing Property and variants and restrictions thereof from a semantic (i.e., model-theoretic) perspective. I am interested in identifying intuitively significant semantic properties in select model-theoretic frameworks which correspond to species of variable sharing. Some forms of variable sharing in some logics are robustly associated with natural semantic properties, while other forms appear (by "pessimistic induction") not to correspond to any semantically significant notion. Various technical results and their possible philosophical upshots are discussed.
+</div>
 
+\\
 <a name="andrew"></a> **Representing Topics**\\
 Andrew Tedder (*Ruhr University Bochum*)
 
+<div style="text-align: justify"> 
 I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)).
+</div>
+
+\\
 
 ## Conference Proceedings
 
