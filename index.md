@@ -27,7 +27,7 @@ Room Number: **3260**
 
 ## Program
 
-### **Thursday, November 14**
+**Thursday, November 14**
 
 | Time | Speaker |
 | - | - |
@@ -40,7 +40,7 @@ Room Number: **3260**
 | 15:00 - 15:55 | Roundtable discussion |
 
 
-### **Friday, November 15**
+**Friday, November 15**
 
 | Time | Speaker |
 | - | - |
@@ -55,10 +55,10 @@ Room Number: **3260**
 | 15:50 - 16:35 | Blane Worley |
 | 16:40 - 17:25 | Tore Øgaard | 
 | 17:30 - 18:15 | Shawn Standefer|  
-| 19:00 - 22:00 | **[Conference dinner](/Conference Dinner)** |
+| 19:00 - 22:00 | **[Conference dinner](/index/Conference Dinner)** |
 
 
-### **Saturday, November 16**
+**Saturday, November 16**
 
 | Time | Speaker |
 | - | - |
