@@ -233,7 +233,7 @@ I (Tedder, forthcoming) have proposed a representation of topics as subalgebras,
 
 ## Conference Proceedings
 
-The participants will have the opportunity to submit full papers for inclusion in the conference proceedings, which will be published online.
+The participants will have the opportunity to submit full papers for inclusion in the conference proceedings in a venue and publisher to be determined.
 
 ## Transportation
 
