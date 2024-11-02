@@ -32,7 +32,7 @@ Room Number: **3260**
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
-| 12:00 - 12:40 | Gemma Robles | On Acceptable Connexive Logics with the Variable Sharing Property *(remote)* |
+| 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó | *(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | Vector Spaces as Topic Structures in Topic-Sensitive Logics *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
@@ -71,7 +71,19 @@ Room Number: **3260**
 
 ## Abstracts
 
-Coming soon.
+<a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property** 
+Gemma Robles (Universidad de Léon) 
+
+It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily
+result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions
+of basic relevant logic B. On the other hand, it is also well known that a necessary property of
+any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable
+connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with
+a series of results about them. (This work is supported by the Spanish Ministry of Science and
+Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
+
+
+
 
 ## Conference Proceedings
 
@@ -104,10 +116,10 @@ table th:first-of-type {
     width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 25%;
+    width: 30%;
 }
 
-table th:nth-of-type(3) { width: 55%
+table th:nth-of-type(3) { width: 50%
 }
 
 
