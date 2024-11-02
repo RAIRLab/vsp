@@ -6,7 +6,7 @@ description: November 14-16, 2024
 Event: **Variable Sharing Properties and Their Discontents**
 
 Date: **November 14-16, 2024**
-
+Φ
 Venue: **Rensselaer Polytechnic Institute (RPI)** [(Link to Website)](https://www.rpi.edu/)
 
 Location: **Low Center for Industrial Innovation (CII), RPI, Troy, NY** [(Link to Map)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7291622,-73.6786731,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
@@ -74,25 +74,23 @@ Room Number: **3260**
 <a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property** 
 *Gemma Robles (Universidad de Léon)* 
 <div style="text-align: justify"> It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)</div>
-
-
-<a name="katalin"></a> **TBD** \
-*Katalin Bimbó (University of Alberta)* \
+\\
+\\
+<a name="katalin"></a> **TBD** 
+*Katalin Bimbó (University of Alberta)* 
 <div style="text-align: justify"> TBD. </div>
 
-
+\\
 <a name="nicholas"></a> **Vector Spaces as Topic Structures in Topic-Sensitive Logics** 
 *Nicholas Ferenz (Universidade de Lisboa)* 
 <div style="text-align: justify"> In this talk I motivate using vector spaces in topic-sensitive logics, given several logics as semantics, and sketch routes to completeness proofs (i.e., building vector spaces from sets of formulas). The motivation for vector spaces is related to their use in representing both syntactic and semantic aspects of words for use in natural language processing. In particular, formal relations between vectors corresponds to semantic relations between topics. These vector space models further open the possibility of logics that represent disagreement between agents in terms of disagreements of topics: e.g., “do A and B really mean the same thing by this formula?” The Variable Sharing Property is then reconceptualized as a special case of topic preservation. This is spelled out using vector spaces and projections.
 </div>
-
-
-<a name="brandon"></a> **VSPursuer: A VSP Verification Tool for MaGIC**\\
+\\
+\\
+<a name="brandon"></a> **VSPursuer: A VSP Verification Tool for MaGIC**
 Brandon Rozek (*Rensselaer Polytechnic Institute*)
 
-<div style="text-align: justify"> 
-For a given logic, there may be thousands of satisfiable matrix models. Finding models which satisfy variable sharing is a labor-intensive process. In this talk, we introduce VSPursuer, a software tool that automatically finds witnesses for VSP. The tool is designed on top of MaGIC, leveraging existing algorithms to generate the initial candidate set of satisfiable models. We provide an overview on how to use the new tool, the techniques used to automate the search process, and discuss avenues for future developments. This includes some joint work with Andrew Tedder.
-</div>
+<div style="text-align: justify"> For a given logic, there may be thousands of satisfiable matrix models. Finding models which satisfy variable sharing is a labor-intensive process. In this talk, we introduce VSPursuer, a software tool that automatically finds witnesses for VSP. The tool is designed on top of MaGIC, leveraging existing algorithms to generate the initial candidate set of satisfiable models. We provide an overview on how to use the new tool, the techniques used to automate the search process, and discuss avenues for future developments. This includes some joint work with Andrew Tedder. </div>
 
 
 <a name="shay"></a> **Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction**\\
@@ -180,7 +178,7 @@ In previous work, I suggested that we can use variable-sharing to define the cla
 Mina Young Pedersen (*University of Bergen*)
 
 <div style="text-align: justify"> 
-This talk concerns a work-in-progress project on adding nominals and the operator @<sub>i</sub> from hybrid logic to the language of relevant logic. Hybrid logic is a modal logic that includes special propositional atoms, called nominals, where each nominal is true at only one state in the model. In effect, nominals let us name individual states and refer to them by formulas on the form @<sub>i</sub>  which we read as ``Φ holds in the state called *i*''. The project is motivated both by exploring modal logics in a relevant setting and by investigating the interesting mathematical structures that arise. The addition of nominals to relevant logic is not straightforward as a direct transfer of the valuation function from hybrid logic conflicts with the Heredity Lemma. We therefore propose that nominals name hereditarily closed sets instead of states in the model. In the talk, I show that the hybrid semantics of @<sub>i</sub> further conflicts with relevant motivations and discuss some non-standard alternatives.
+This talk concerns a work-in-progress project on adding nominals and the operator @<sub>i</sub> from hybrid logic to the language of relevant logic. Hybrid logic is a modal logic that includes special propositional atoms, called nominals, where each nominal is true at only one state in the model. In effect, nominals let us name individual states and refer to them by formulas on the form @<sub>i</sub> Φ which we read as "Φ holds in the state called *i*". The project is motivated both by exploring modal logics in a relevant setting and by investigating the interesting mathematical structures that arise. The addition of nominals to relevant logic is not straightforward as a direct transfer of the valuation function from hybrid logic conflicts with the Heredity Lemma. We therefore propose that nominals name hereditarily closed sets instead of states in the model. In the talk, I show that the hybrid semantics of @<sub>i</sub> further conflicts with relevant motivations and discuss some non-standard alternatives.
 </div>
 
 
