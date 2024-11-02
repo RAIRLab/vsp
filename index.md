@@ -30,7 +30,7 @@ Room Number: **3260**
 **Thursday, November 14**
 
 | Time | Speaker |
-| - | - |
+| ------------- | - |
 | 11:00 - 12:00 | **Registration** |
 | 12:00 - 12:40 | Gemma Robles *(remote)* |
 | 12:40 - 13:20 | Katalin Bimbó *(remote)* |
@@ -43,7 +43,7 @@ Room Number: **3260**
 **Friday, November 15**
 
 | Time | Speaker |
-| - | - |
+| ------------- | - |
 | 9:00 - 9:45 | Shay Logan |
 | 9:50 - 10:35 | Sandra Lopez Valasco |
 | 10:40 - 11:00 | **Coffee break** |
@@ -61,7 +61,7 @@ Room Number: **3260**
 **Saturday, November 16**
 
 | Time | Speaker |
-| - | - |
+| ------------- | - |
 | 9:00 - 9:45 | Mina Pedersen |
 | 9:50 - 10:35 | Franci Mangraviti |
 | 10:40 - 11:00 | **Coffee break** |
