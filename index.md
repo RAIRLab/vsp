@@ -75,7 +75,9 @@ Room Number: **3260**
 Gemma Robles (*Universidad de Léon*) 
 
 <div style="text-align: justify"> 
-It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. 
+It is known that addition of Aristotle’s thesis to a relevant logic does not necessarily result in an acceptable connexive logic. In fact, there are not acceptable connexive extensions of basic relevant logic B. On the other hand, it is also well known that a necessary property of any relevant logic is the variable sharing property (VSP). In this paper, a number of acceptable connexive logics with the VSP (i.e., acceptable relevant connexive logics) is presented together with a series of results about them. </div>
+
+<div style="text-align: justify"> 
 (This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00].)
 </div>
 
