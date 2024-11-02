@@ -53,7 +53,7 @@ Room Number: **3260**
 | 14:50 - 15:35 | Martina Zirattu | On Weak Kleene Generalizations of Classical Logic |
 | 15:40 - 15:50 | **Coffee break** | |
 | 15:50 - 16:35 | Blane Worley | Decorating Classical Logic |
-| 16:40 - 17:25 | Tore Øgaard | |
+| 16:40 - 17:25 | Tore Øgaard | Entailment or Implication |
 | 17:30 - 18:15 | Shawn Standefer| The Significance of Variable-Sharing |
 | 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
 
@@ -104,10 +104,10 @@ table th:first-of-type {
     width: 20%;
 }
 table th:nth-of-type(2) {
-    width: 35%;
+    width: 25%;
 }
 
-table th:nth-of-type(3) { width: 35%
+table th:nth-of-type(3) { width: 55%
 }
 
 
