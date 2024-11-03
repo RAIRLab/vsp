@@ -210,7 +210,8 @@ Franci Magraviti *(University of Padua)*
 Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic: </div>
 
 <div style="text-align: left"> </div>
-\\
+
+
 
 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing?
 2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
@@ -231,7 +232,8 @@ I (Tedder, forthcoming) have proposed a representation of topics as subalgebras,
 
 
 <div style="text-align: left"> </div>
-\\
+
+
 
 ## Conference Proceedings
 
