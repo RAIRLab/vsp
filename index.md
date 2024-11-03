@@ -153,15 +153,8 @@ The first first will typically appeal to natural language conditionals in order 
 <div style="text-align: justify"> 
 In addition to the rather stable view that relevance require some form of topical overlap, relevant logics have been motivated using a notion of proof-theoretic utility: that the correctness of a deduction of a conclusion for a collection of premises require that the premises have been used in some substantial way. I will try to motivate the claim that this intuition can be accounted for using a topic-overlap-inspired property, namely that the consequence relation satisfy what Avron has called the *basic relevance criterion* (BRC). If the entailment consequence relation for a logic satisfies (BRC) then it follows that the logic satisfies the variable sharing property (VSP). There are, however, logics which satisfy (VSP) without satisfying (BRC) for entailment. Using Fine's semantics for relevant logics I'll sketch a proof that (BRC) holds not only for  the entailment for standard relevant logics between B and R, but also for the  standard/
 "Official" consequence relation and that the property holds for Official consequence for  non-relevant logics such as RM<sub>3</sub>. (BRC), therefore, fails to yield relevance in the standard sense. 
-</div>
-
-
-
-<div style="text-align: justify">
+<br>
 There are two topics that I wish to highlight during my talk: 
-</div>
-
-
 
 <div style="text-align: justify"> 
 First of all, whereas the variable sharing property has lately been strengthened in various ways---ways motivated by considerations of whether negation and relevant implication are themselves topically transparent contexts---the investigation into the BRC-property remains in its infancy. The other is to emphasize the importance of how logics with such strengthened variable sharing properties are motivated. Even though the relevant conditional is often called an "entailment conditional", I point to the fact that 
