@@ -231,7 +231,9 @@ Andrew Tedder *(Ruhr University Bochum)*
 I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)). </div>
 
 
-<div style="text-align: left"> </div>
+<div style="text-align: left"> 
+\
+</div>
 
 
 
