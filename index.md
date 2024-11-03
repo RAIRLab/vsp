@@ -80,7 +80,7 @@ It is known that addition of Aristotle’s thesis to a relevant logic does not n
 \\
 <a name="katalin"></a> **TBD**\\
 Katalin Bimbó *(University of Alberta)* 
-TBD. 
+
 
 
 \\
@@ -115,8 +115,6 @@ The variable-sharing property (VSP) is considered the main condition for a forma
 \\
 <a name="thomas"></a> **TBD**\\
 Thomas Ferguson *(Rensselaer Polytechnic Institute)*
-
-TBD.
 
 
 \\
