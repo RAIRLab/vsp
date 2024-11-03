@@ -149,7 +149,10 @@ Tore Øgaard *(University of Bergen)*
 Relevant logics can be motivated in roughly two ways; (A) as a theory about a conditional---"relevant implication"---or (B) as a theory of logical consequence. 
 The first first will typically appeal to natural language conditionals in order to substantiate the claim that certain conditionals fail to be true if the antecedent and consequent are about distinct topics. The other theory will typically claim that there is a notion of logical consequence---"entailment"---which require for validity that the premises and conclusion topically overlap. Note that neither of these two motivational ways need exclude the other. 
 </div>
-<br>
+
+<div style="text-align: justify"> </div>
+
+
 <div style="text-align: justify"> 
 In addition to the rather stable view that relevance require some form of topical overlap, relevant logics have been motivated using a notion of proof-theoretic utility: that the correctness of a deduction of a conclusion for a collection of premises require that the premises have been used in some substantial way. I will try to motivate the claim that this intuition can be accounted for using a topic-overlap-inspired property, namely that the consequence relation satisfy what Avron has called the *basic relevance criterion* (BRC). If the entailment consequence relation for a logic satisfies (BRC) then it follows that the logic satisfies the variable sharing property (VSP). There are, however, logics which satisfy (VSP) without satisfying (BRC) for entailment. Using Fine's semantics for relevant logics I'll sketch a proof that (BRC) holds not only for  the entailment for standard relevant logics between B and R, but also for the  standard/"Official" consequence relation and that the property holds for Official consequence for  non-relevant logics such as RM<sub>3</sub>. (BRC), therefore, fails to yield relevance in the standard sense. </div>
 <br>
@@ -158,8 +161,7 @@ There are two topics that I wish to highlight during my talk:
 <div style="text-align: justify"> 
 First of all, whereas the variable sharing property has lately been strengthened in various ways---ways motivated by considerations of whether negation and relevant implication are themselves topically transparent contexts---the investigation into the BRC-property remains in its infancy. The other is to emphasize the importance of how logics with such strengthened variable sharing properties are motivated. Even though the relevant conditional is often called an "entailment conditional", I point to the fact that 
 </div>
-
-
+<br>
 
 - modus ponens fails for entailment for logics with stronger variable sharing properties---"depth relevance" and beneath 
 - motivational cases from natural language are typically of contingently true conditionals, and 
