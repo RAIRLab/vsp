@@ -211,7 +211,7 @@ Is the notion of variable sharing central to relevant logic, or is it a mere byp
 
 <div style="text-align: left"> </div>
 
-
+<br>
 
 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing?
 2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
@@ -233,7 +233,7 @@ I (Tedder, forthcoming) have proposed a representation of topics as subalgebras,
 
 <div style="text-align: left"></div>
 
-\
+
 
 
 ## Conference Proceedings
