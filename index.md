@@ -210,8 +210,7 @@ Franci Magraviti *(University of Padua)*
 Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic: </div>
 
 <br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing?
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. if relevant logic is (in some sense) a good logic for mathematics, what is the mathematical value (as in: the value from the perspective of working mathematicians) of variable sharing?\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. if relevant logic is (in some sense) a good liberatory logic, what is the liberatory value of variable sharing?
 
 <br>
@@ -229,9 +228,7 @@ Andrew Tedder *(Ruhr University Bochum)*
 
 <div style="text-align: justify"> 
 I (Tedder, forthcoming) have proposed a representation of topics as subalgebras, inspired by the recent work by Berto and his collaborators (2022). Berto's framework, however, is apparently much more general than mine -- he allows topics to come structured in terms of any old join semilattice, whereas the subalgebra lattice of any given algebra has significantly more structure. In this talk we investigate the question of when a Berto frame can be represented within a pair of an algebra and its subalgebra lattice. The answer turns on an algebraic property (JEP -- the joint embedding property) which corresponds, in extensions of FL, to a version of VSP which holds at the level of logical consequence (the pseudo-relevance property, as investigated by Maksimova). We consider the significance of this fact for the topical reading of VSP, and glimpse around at related territory. (Joint work with Wesley Fussner (CAS-ICS)). </div>
-
 <br>
-
 
 ## Conference Proceedings
 
