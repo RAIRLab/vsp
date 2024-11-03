@@ -231,7 +231,7 @@ I (Tedder, forthcoming) have proposed a representation of topics as subalgebras,
 </div>
 
 
-
+\
 
 ## Conference Proceedings
 
