@@ -132,8 +132,6 @@ This presentation aims to explore new semantics for Angell's logic of Analytic C
 
 
 \\
-
-\\
 <a name="blane"></a> **Decorating Classical Logic**\\
 Blane Worley *(UC Davis)*
  
