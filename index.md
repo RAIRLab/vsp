@@ -223,8 +223,7 @@ You can also make use of the local bus lines from the Hilton Garden Inn Hotel to
 
 ## <a name="dinner"></a> Conference Dinner
 
-The conference dinner will take place on **Friday** November 15th at the [Dinosaur BBQ](https://dinosaurbarbque.com/locations/troy). 
-
+The conference dinner will take place on **Friday** November 15th at the [Dinosaur BBQ](https://dinosaurbarbque.com/locations/troy).\\
 The venue will open at 18:30 and dinner will be served at 19:00. 
 
 
