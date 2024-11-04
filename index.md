@@ -49,8 +49,8 @@ Room Number: **3260**
 | 10:40 - 11:00 | **Coffee break** | |
 | 11:00 - 11:45 | Thomas Ferguson | [TBD](#thomas)|
 | 11:50 - 14:00 | **Lunch break**| |
-| 14:00 - 14:45 | Damian Szmuc | [More Semantics for Angell’s Logic of Analytic Containment](#damian) |
-| 14:50 - 15:35 | Martina Zirattu | [On Weak Kleene Generalizations of Classical Logic](#martina) |
+| 14:00 - 14:45 | Martina Zirattu | [On Weak Kleene Generalizations of Classical Logic](#martina) 
+| 14:50 - 15:35 | Damian Szmuc | [More Semantics for Angell’s Logic of Analytic Containment](#damian) |
 | 15:40 - 15:50 | **Coffee break** | |
 | 15:50 - 16:35 | Blane Worley | [Decorating Classical Logic](#blane) |
 | 16:40 - 17:25 | Tore Øgaard | [Entailment or Implication](#tore) |
@@ -118,6 +118,13 @@ Thomas Ferguson *(Rensselaer Polytechnic Institute)*
 
 
 \\
+<a name="martina"></a> **On Weak Kleene Generalizations of Classical Logic**\\
+Martina Zirattu *(Università di Torino)*
+
+In an article that appeared some years ago, Stefan Wintein analyzed the effect that adopting different definitions of logical consequence had on three- and four-valued strong Kleene generalizations of Classical Logic. In a nutshell, these generalizations of Classical Logic consist of keeping the same truth and falsity conditions for the complex logical expressions, while allowing for truth-value gaps or gluts. Our work aims to study the effect of adopting different definitions of logical consequence on weak Kleene generalizations of Classical Logic. The characteristic feature of weak Kleene logics is their ability to handle grammatical but otherwise meaningless, nonsensical, or off-topic sentences in a formally systematic way. Thus, our generalizations keep the truth and falsity conditions of Classical Logic the same for the complex logical expressions, while allowing for truth-value gaps or gluts---and, most importantly, for meaningless, nonsensical, or off-topic sentences to be around.
+
+
+\\
 <a name="damian"></a> **More Semantics for Angell’s Logic of Analytic Containment**\\
 Damian Szmuc *(CONICET)*
 
@@ -125,11 +132,6 @@ This presentation aims to explore new semantics for Angell's logic of Analytic C
 
 
 \\
-<a name="martina"></a> **On Weak Kleene Generalizations of Classical Logic**\\
-Martina Zirattu *(Università di Torino)*
-
-In an article that appeared some years ago, Stefan Wintein analyzed the effect that adopting different definitions of logical consequence had on three- and four-valued strong Kleene generalizations of Classical Logic. In a nutshell, these generalizations of Classical Logic consist of keeping the same truth and falsity conditions for the complex logical expressions, while allowing for truth-value gaps or gluts. Our work aims to study the effect of adopting different definitions of logical consequence on weak Kleene generalizations of Classical Logic. The characteristic feature of weak Kleene logics is their ability to handle grammatical but otherwise meaningless, nonsensical, or off-topic sentences in a formally systematic way. Thus, our generalizations keep the truth and falsity conditions of Classical Logic the same for the complex logical expressions, while allowing for truth-value gaps or gluts---and, most importantly, for meaningless, nonsensical, or off-topic sentences to be around.
-
 
 \\
 <a name="blane"></a> **Decorating Classical Logic**\\
