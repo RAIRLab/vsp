@@ -44,7 +44,7 @@ Room Number: **3260**
 
 | Time | Speaker | Title |
 | --- | --- | --- |
-| 9:00 - 9:45 | Shay Logan | [Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction](#shay) |
+| 9:00 - 9:45 | Shawn Standefer| [The Significance of Variable-Sharing](#shawn) |
 | 9:50 - 10:35 | Sandra López | [The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics](#sandra) |
 | 10:40 - 11:00 | **Coffee break** | |
 | 11:00 - 11:45 | Thomas Ferguson | [TBD](#thomas)|
@@ -54,7 +54,7 @@ Room Number: **3260**
 | 15:40 - 15:50 | **Coffee break** | |
 | 15:50 - 16:35 | Blane Worley | [Decorating Classical Logic](#blane) |
 | 16:40 - 17:25 | Tore Øgaard | [Entailment or Implication](#tore) |
-| 17:30 - 18:15 | Shawn Standefer| [The Significance of Variable-Sharing](#shawn) |
+| 17:30 - 18:15 | Shay Logan | [Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction](#shay) |
 | 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
 
 
@@ -98,11 +98,10 @@ For a given logic, there may be thousands of satisfiable matrix models. Finding 
 
 
 \\
-<a name="shay"></a> **Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction**\\
-Shay Logan (*Kansas State University*)
-
-Relevant logics share variables. Weak relevant logics are also closed under interesting classes of nonuniform substitutions. In this talk I will show that in a range of interesting cases, the latter entails the former. This allows us give easy proofs of (new and exciting!) strong variable sharing results without relying on Belnap’s variable sharing results for the logic R. But there’s an enigma to address. R admits contraction. So variable sharing and contraction are clearly compatible. Yet (as I will show) contraction seems entirely incompatible with the whole business of nonuniform substitutions. If time permits after surveying this much, I will say a few
-words about how we might overcome this obstacle.
+<a name="shawn"></a> **The Significance of Variable-Sharing**\\
+Shawn Standefer *(National Taiwan University)*
+ 
+In previous work, I suggested that we can use variable-sharing to define the class of relevant logics. In this talk, I will expand on this idea and explore the significance of variable-sharing. The goal will be to identify some of its prominent philosophical consequences. I will also use it as a foil to help identify features of the usual suspects in the relevant logic literature, e.g. B, R, T, etc., that distinguish them as interesting and important logics.
 
 
 \\
@@ -171,10 +170,11 @@ I'll end by suggesting that to combination of some form of hyperformality and th
 
 
 \\
-<a name="shawn"></a> **The Significance of Variable-Sharing**\\
-Shawn Standefer *(National Taiwan University)*
- 
-In previous work, I suggested that we can use variable-sharing to define the class of relevant logics. In this talk, I will expand on this idea and explore the significance of variable-sharing. The goal will be to identify some of its prominent philosophical consequences. I will also use it as a foil to help identify features of the usual suspects in the relevant logic literature, e.g. B, R, T, etc., that distinguish them as interesting and important logics.
+<a name="shay"></a> **Nonuniform Substitutions, Variable Sharing, and the Enigma of Contraction**\\
+Shay Logan (*Kansas State University*)
+
+Relevant logics share variables. Weak relevant logics are also closed under interesting classes of nonuniform substitutions. In this talk I will show that in a range of interesting cases, the latter entails the former. This allows us give easy proofs of (new and exciting!) strong variable sharing results without relying on Belnap’s variable sharing results for the logic R. But there’s an enigma to address. R admits contraction. So variable sharing and contraction are clearly compatible. Yet (as I will show) contraction seems entirely incompatible with the whole business of nonuniform substitutions. If time permits after surveying this much, I will say a few
+words about how we might overcome this obstacle.
 
 
 \\
