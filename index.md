@@ -11,7 +11,7 @@ Venue: **Rensselaer Polytechnic Institute (RPI)** [(Link to Website)](https://ww
 
 Location: **Low Center for Industrial Innovation (CII), RPI, Troy, NY** [(Link to Map)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7291622,-73.6786731,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
 
-Room Number: **3260**
+Room Number: **3206**
 
             
 ## Organizers and Contacts
@@ -188,7 +188,7 @@ This talk concerns a work-in-progress project on adding nominals and the operato
 
 \\
 <a name="franci"></a> **Variable Sharing Beyond Logic: Two Case Studies**\\
-Franci Magraviti *(University of Padua)*
+Franci Mangraviti *(University of Padua)*
 
 Is the notion of variable sharing central to relevant logic, or is it a mere byproduct? And how should it be expressed and understood? In this talk I want to explore a particular approach to addressing such questions, which is to look at the possible roles of the property under consideration (in this case, variable sharing) within practices outside of (the discipline of) logic itself. The idea is that, if a property P is core to a logic, then this should manifest in the way said logic partakes in other practices; conversely, looking at out-of-logic practices should provide insights (or at least support existing insights) into the best way to formulate P. Here I will focus on two (time permitting) case studies, inspired by the literature on relevant mathematics and feminist relevant logic:  
 
