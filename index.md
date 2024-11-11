@@ -106,9 +106,11 @@ In previous work, I suggested that we can use variable-sharing to define the cla
 
 \\
 <a name="sandra"></a> **The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics**\\
-Sandra López *(Ruhr University Bochum)*
+Sandra López *(University of Valladolid)*
 
 The variable-sharing property (VSP) is considered the main condition for a formal system to be a relevance logic, that is, to be free of paradoxes of relevance i.e., conditional formulas where the antecedent and the consequent do not share any common semantic content. The VSP can be defined as follows: a logic L has the VSP iff, for all theorems in L of the form A → B, A and B share at least a propositional variable. In Robles (2023), a general method to build binary expansions of FOUR (i.e., the system also known as Belnap-Dunn logic B4, which is equivalent to FDE) with the VSP is shown; in addition, an interesting logic determined by one of these expansions is fully developed and its fundamental properties are explored. On the other hand, the quasi-relevant property (QRP) is characteristic of logics in the family of relevance such as R-Mingle and may be defined as follows: a logic L has the QRP iff, for all theorems in L of the form A → B, either (i) A and B share a propositional variable or (ii) both ¬A and B are theorems. The aim of this talk is twofold: (1) to extend the method in Robles (2023) for the purpose of building implicative expansions of FOUR with the QRP; (2) to establish different criteria to choose among these matrices in order to develop logics that may be of interest from the point of view of relevance as something else than mere artificial constructs.
+
+This work is supported by the Spanish Ministry of Science and Innovation MCIN/AEI/ 10.13039/501100011033 [Grant PID2020-116502GB-I00]
 
 
 \\
