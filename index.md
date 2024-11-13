@@ -33,7 +33,7 @@ Room Number: **3206**
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) *(remote)* |
-| 12:40 - 13:20 | Katalin Bimbó | [TBD](#katalin) *(remote)* |
+| 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) *(remote)* |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) *(remote)* |
 | 14:00 - 14:20 | **Coffee break** | |
 | 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
@@ -78,9 +78,10 @@ It is known that addition of Aristotle’s thesis to a relevant logic does not n
 
 
 \\
-<a name="katalin"></a> **TBD**\\
+<a name="katalin"></a> **Tweaking Variable Sharing**\\
 Katalin Bimbó *(University of Alberta)* 
 
+I will consider versions of the variable sharing property and discuss whether variable sharing is a desirable feature of relevance logics.
 
 
 \\
