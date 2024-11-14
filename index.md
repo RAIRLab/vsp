@@ -35,7 +35,7 @@ description: November 14-16, 2024
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | | 
-| | | **Hybrid sessions:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
+| | | **Hybrid Link:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) &mdash; remote |
 | 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) &mdash; remote |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) &mdash; remote |
@@ -121,8 +121,10 @@ This work is supported by the Spanish Ministry of Science and Innovation MCIN/AE
 
 
 \\
-<a name="thomas"></a> **TBD**\\
+<a name="thomas"></a> **Qua, Per Se, and Other Topic-Transformative Operators**\\
 Thomas Ferguson *(Rensselaer Polytechnic Institute)*
+
+Recent work challenging principles of topic transparency in topic-sensitive logics has relied on providing accounts of connectives that are topic-transformative, that is, which non-trivially influence the overall topic assigned to a complex. This leads naturally to the question of what operators in natural language might also act as topic-transformative functions. This talk reviews work in progress studying “qua”, “per se”, and other topic-transformative operators. After discussing ways to analyze these operators, we will emphasize how such analyses are likely to assist in a parallel project of updating Richard Sylvan’s work on relevant containment logic. (This is joint work with Pietro Vigiani and Jitka Kadlečíková.)
 
 
 \\
