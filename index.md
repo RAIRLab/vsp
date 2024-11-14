@@ -13,7 +13,9 @@ description: November 14-16, 2024
 
 **Room Number:** 3206 (The room is on the main entrance floor.)
 
-**Link to remote talks:** [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
+**Format:** Hybrid - all the talks can be accessed remotely in the WebEx room.
+
+**Link:** [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
             
 ## Organizers and Contacts
 
@@ -50,7 +52,7 @@ description: November 14-16, 2024
 | 9:00 - 9:45 | Shawn Standefer| [The Significance of Variable-Sharing](#shawn) |
 | 9:50 - 10:35 | Sandra López | [The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics](#sandra) |
 | 10:40 - 11:00 | **Coffee break** | |
-| 11:00 - 11:45 | Thomas Ferguson | [TBD](#thomas)|
+| 11:00 - 11:45 | Thomas Ferguson | [Qua, Per Se, and Other Topic-Theoretic Operators](#thomas)|
 | 11:50 - 14:00 | **Lunch break**| |
 | 14:00 - 14:45 | Martina Zirattu | [On Weak Kleene Generalizations of Classical Logic](#martina) 
 | 14:50 - 15:35 | Damian Szmuc | [More Semantics for Angell’s Logic of Analytic Containment](#damian) |
