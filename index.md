@@ -3,17 +3,17 @@ title: Variable Sharing Properties and Their Discontents
 description: November 14-16, 2024
 ---
 ## About
-Event: **Variable Sharing Properties and Their Discontents**
+**Event:** Variable Sharing Properties and Their Discontents
 
-Date: **November 14-16, 2024**
+**Date:** November 14-16, 2024
 
-Venue: **Rensselaer Polytechnic Institute (RPI)** [(Link to Website)](https://www.rpi.edu/)
+**Venue:** Rensselaer Polytechnic Institute (RPI) [(Link to Website)](https://www.rpi.edu/)
 
-Location: **Low Center for Industrial Innovation (CII), RPI, Troy, NY** [(Link to Map)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7291622,-73.6786731,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
+**Location:** Low Center for Industrial Innovation (CII), RPI, Troy, NY [(Link to Map)](https://www.google.com/maps/place/Low+Center+for+Industrial+Innovation/@42.7291622,-73.6786731,17z/data=!3m1!4b1!4m6!3m5!1s0x89de0fa0754f2517:0xc812ad6a8b0415a0!8m2!3d42.7291622!4d-73.6786731!16s%2Fm%2F027sqdl?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)
 
-Room Number: **3206**
+**Room Number:** 3206 (The room is on the main entrance floor.)
 
-Link to remote talks: [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
+**Link to remote talks:** [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
             
 ## Organizers and Contacts
 
