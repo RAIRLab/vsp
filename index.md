@@ -13,7 +13,7 @@ Location: **Low Center for Industrial Innovation (CII), RPI, Troy, NY** [(Link t
 
 Room Number: **3206**
 
-Link to remote talks: [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
+> Link to remote talks: [https://rensselaer.webex.com/meet/fergut5](https://rensselaer.webex.com/meet/fergut5)
             
 ## Organizers and Contacts
 
