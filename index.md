@@ -30,6 +30,7 @@ description: November 14-16, 2024
 
 **Thursday, November 14**
 
+| | | |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | **Hybrid sessions:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) &mdash; hybrid |
