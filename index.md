@@ -33,9 +33,9 @@ Room Number: **3206**
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | |
-| 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) [Remote Link](https://rensselaer.webex.com/meet/fergut5) |
-| 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) - [Remote Link](https://rensselaer.webex.com/meet/fergut5) |
-| 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) - [Remote Link](https://rensselaer.webex.com/meet/fergut5) |
+| 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) &mdash; [REMOTE LINK](https://rensselaer.webex.com/meet/fergut5) |
+| 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) - [REMOTE LINK](https://rensselaer.webex.com/meet/fergut5) |
+| 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) - [REMOTE LINK](https://rensselaer.webex.com/meet/fergut5) |
 | 14:00 - 14:20 | **Coffee break** | |
 | 14:20 - 15:00 | Brandon Rozek | [VSPursuer: A VSP Verification Tool for MaGIC](#brandon) |
 | 15:00 - 15:55 | **Roundtable discussion** | |
