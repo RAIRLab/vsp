@@ -30,8 +30,6 @@ description: November 14-16, 2024
 
 **Thursday, November 14**
 
-| Time | Speaker | Title |
-| --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | **Hybrid sessions:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) &mdash; hybrid |
 | 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) &mdash; hybrid |
@@ -43,8 +41,6 @@ description: November 14-16, 2024
 
 **Friday, November 15**
 
-| Time | Speaker | Title |
-| --- | --- | --- |
 | 9:00 - 9:45 | Shawn Standefer| [The Significance of Variable-Sharing](#shawn) |
 | 9:50 - 10:35 | Sandra López | [The Variable-Sharing Property and the Quasi-Relevance Property in 4-Valued Logics](#sandra) |
 | 10:40 - 11:00 | **Coffee break** | |
