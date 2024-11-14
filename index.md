@@ -41,6 +41,7 @@ description: November 14-16, 2024
 | 15:00 - 15:55 | **Roundtable discussion** | |
 
 
+\\
 **Friday, November 15**
 
 | Time | Speaker | Title |
@@ -59,6 +60,7 @@ description: November 14-16, 2024
 | 19:00 - 22:00 | **[Conference dinner](#dinner)** | |
 
 
+\\
 **Saturday, November 16**
 
 | Time | Speaker | Title |
