@@ -35,7 +35,7 @@ description: November 14-16, 2024
 | Time | Speaker | Title |
 | --- | --- | --- |
 | 11:00 - 12:00 | **Registration** | | 
-| | | **Hybrid Link:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
+| | | **WebEx:** [LINK](https://rensselaer.webex.com/meet/fergut5) |
 | 12:00 - 12:40 | Gemma Robles | [On Acceptable Connexive Logics with the Variable Sharing Property](#gemma) &mdash; remote |
 | 12:40 - 13:20 | Katalin Bimbó | [Tweaking Variable Sharing](#katalin) &mdash; remote |
 | 13:20 - 14:00 | Nicholas Ferenz | [Vector Spaces as Topic Structures in Topic-Sensitive Logics](#nicholas) &mdash; remote |
@@ -75,6 +75,7 @@ description: November 14-16, 2024
 | 11:50 - 12:35 | Andrew Tedder | [Representing Topics](#andrew) |
 
 
+\\
 ## Abstracts
 
 <a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property**\\
