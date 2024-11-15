@@ -75,7 +75,7 @@ description: November 14-16, 2024
 | 11:50 - 12:35 | Andrew Tedder | [Representing Topics](#andrew) |
 
 
-\\
+
 ## Abstracts
 
 <a name="gemma"></a> **On Acceptable Connexive Logics with the Variable Sharing Property**\\
